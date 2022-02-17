@@ -30,3 +30,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo "# sitemap" > sitemap.md && ls | xargs -I {} echo "[{}](./{})" >> sitemap.md
+        
+      - name: Run a one-line script
+        run: git add sitemap.md && git commit -m "updated the sitemap.md" && git push
