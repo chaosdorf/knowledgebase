@@ -1,6 +1,6 @@
 # Index
 
-Willkommen im Wiki des Chaosdorfs. Hier finden sich Informationen, die sich auch mal schneller ändern können.
+Willkommen im "knowledgebase" des [Chaosdorfs](https://chaosdorf.de). Hier finden sich Informationen, die sich auch mal schneller ändern können.
 
 ## TEST DISCLAMER
 
