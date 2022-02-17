@@ -29,7 +29,14 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo "# sitemap" > sitemap.md && ls | xargs -I {} echo "[{}](./{})" >> sitemap.md
+        run: |
+          echo "# sitemap" > sitemap.md
+          ls | xargs -I {} echo "[{}](./{})" >> sitemap.md
         
       - name: Run a one-line script
-        run: git add sitemap.md && git commit -m "updated the sitemap.md" && git push
+        run: |
+          git config --global user.email "githubaction@mail.com"
+          git config --global user.name "githubaction"
+          git add sitemap.md
+          git commit -m "updated the sitemap.md"
+          git push
