@@ -30,5 +30,5 @@ Unsere Infrastruktur kann grundsätzlich auch von Gästen genutzt werden, und di
 
 ## Unterstützt uns
 
-- Wir freuen uns natürlich über Spenden
+- Wir freuen uns natürlich über [Spenden](./spenden.md)
 - Neue [Mitglieder](./member.md) sind gerne gesehen.
