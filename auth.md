@@ -2,7 +2,7 @@
 
 Diese Merkmale sind für sämtliche Chaosdorf-Dienste gleich (sie liegen im LDAP auf backend.chaosdorf.de).
 
-## Username[edit | edit source]
+## Username
 
 Überall gleich
 
