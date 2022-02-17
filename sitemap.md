@@ -1,5 +1,4 @@
 # sitemap
-- [README.md](./README.md)
 - [auth.md](./auth.md)
 - [chaosdoor.md](./chaosdoor.md)
 - [consensus.md](./consensus.md)
