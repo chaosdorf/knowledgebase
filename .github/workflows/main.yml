@@ -31,7 +31,7 @@ jobs:
       - name: Run a one-line script
         run: |
           echo "# sitemap" > sitemap.md
-          ls | xargs -I {} echo "- [{}](./{})" >> sitemap.md
+          ls | grep -v "README.md" | xargs -I {} echo "- [{}](./{})" >> sitemap.md
         
       - name: Run a one-line script
         run: |
