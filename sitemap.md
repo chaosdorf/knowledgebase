@@ -1,18 +1,18 @@
 # sitemap
-[README.md](./README.md)
-[auth.md](./auth.md)
-[chaosdoor.md](./chaosdoor.md)
-[consensus.md](./consensus.md)
-[git.md](./git.md)
-[hosting.md](./hosting.md)
-[index.md](./index.md)
-[jabber.md](./jabber.md)
-[mail.md](./mail.md)
-[member.md](./member.md)
-[plenum.md](./plenum.md)
-[services.md](./services.md)
-[shellserver.md](./shellserver.md)
-[sitemap.md](./sitemap.md)
-[spenden.md](./spenden.md)
-[virtualspace.md](./virtualspace.md)
-[wordpress.md](./wordpress.md)
+- [README.md](./README.md)\n
+- [auth.md](./auth.md)\n
+- [chaosdoor.md](./chaosdoor.md)\n
+- [consensus.md](./consensus.md)\n
+- [git.md](./git.md)\n
+- [hosting.md](./hosting.md)\n
+- [index.md](./index.md)\n
+- [jabber.md](./jabber.md)\n
+- [mail.md](./mail.md)\n
+- [member.md](./member.md)\n
+- [plenum.md](./plenum.md)\n
+- [services.md](./services.md)\n
+- [shellserver.md](./shellserver.md)\n
+- [sitemap.md](./sitemap.md)\n
+- [spenden.md](./spenden.md)\n
+- [virtualspace.md](./virtualspace.md)\n
+- [wordpress.md](./wordpress.md)\n
