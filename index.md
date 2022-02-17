@@ -32,3 +32,7 @@ Unsere Infrastruktur kann grundsätzlich auch von Gästen genutzt werden, und di
 
 - Wir freuen uns natürlich über [Spenden](./spenden.md)
 - Neue [Mitglieder](./member.md) sind gerne gesehen.
+
+---
+
+[sitemap](./sitemap.md)
