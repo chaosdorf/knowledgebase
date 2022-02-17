@@ -28,5 +28,5 @@ jobs:
       - name: Generate HTML from Markdown
         uses: ldeluigi/markdown-docs@latest
         with:
-          src: .
+          src: doc
           dst: generated
