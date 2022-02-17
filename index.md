@@ -14,7 +14,7 @@ Hinweis: Aufgrund der der [derzeitigen COVID19-Situation](https://chaosdorf.de/2
 
 ## Über uns und unseren Space
 
-Das Chaosdorf ist der Düsseldorfer Ableger des Chaos Computer Club mit rund 115 Mitgliedern. Wir betreiben einen [Hackspace](https://map.chaosdorf.de/), in dem Mitglieder und Gäste an kreativen, technischen und politischen Themen arbeiten können. Der Space ist außerdem [Ort des Erfahrungsaustauschs](https://www.ccc.de/de/club/erfas) und Freizeitgestaltung.
+Das Chaosdorf ist der Düsseldorfer Ableger des Chaos Computer Club mit rund 115 [Mitgliedern](./member.md). Wir betreiben einen [Hackspace](https://map.chaosdorf.de/), in dem [Mitglieder](./member.md) und Gäste an kreativen, technischen und politischen Themen arbeiten können. Der Space ist außerdem [Ort des Erfahrungsaustauschs](https://www.ccc.de/de/club/erfas) und Freizeitgestaltung.
 
 Wir sind kein PC-Reparaturladen.
 
@@ -31,4 +31,4 @@ Unsere Infrastruktur kann grundsätzlich auch von Gästen genutzt werden, und di
 ## Unterstützt uns
 
 - Wir freuen uns natürlich über Spenden
-- Neue Mitglieder sind gerne gesehen.
+- Neue [Mitglieder](./member.md) sind gerne gesehen.
