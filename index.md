@@ -22,7 +22,7 @@ Wir organisieren uns als Eingetragener Verein, in dem möglichst viele Entscheid
 
 ## Einfach vorbei kommen
 
-Als technikaffinen Ort gibt es uns nicht nur geographisch auf der **Sonnenstraße 58, 40227 Düsseldorf, Erde**, sondern natürlich auch virtuell in vielen sozialen Netzwerken, wobei aktuell Twitter und Telegram am häufigsten frequentiert werden.
+Als technikaffinen Ort gibt es uns nicht nur geographisch auf der **[Sonnenstraße 58, 40227 Düsseldorf, Erde](https://www.openstreetmap.org/#map=19/51.21263/6.79965)**, sondern natürlich auch virtuell in vielen sozialen Netzwerken, wobei aktuell Twitter und Telegram am häufigsten frequentiert werden.
 
 ## Dinge tun
 
