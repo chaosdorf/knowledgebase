@@ -18,7 +18,7 @@ Das Chaosdorf ist der Düsseldorfer Ableger des Chaos Computer Club mit rund 115
 
 Wir sind kein PC-Reparaturladen.
 
-Wir organisieren uns als Eingetragener Verein, in dem möglichst viele Entscheidungen konsensual getroffen werden.
+Wir organisieren uns als Eingetragener Verein, in dem möglichst viele Entscheidungen [konsensual](./consensus.md) getroffen werden.
 
 ## Einfach vorbei kommen
 
