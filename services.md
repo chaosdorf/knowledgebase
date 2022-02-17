@@ -6,7 +6,7 @@ Als Chaosdorf-Mitglied kannst/willst/darfst du folgende Dinge tun:
 - Auf intern@chaosdorf.de mitreden
 - [chaosdorf.de](./wordpress.md) bearbeiten
 - Unseren Clubraum jederzeit für eigene Projekte [nutzen](./chaosdoor.md)
-- Den Chaosdorf-Shellserver benutzen
+- Den Chaosdorf-[Shellserver](./shellserver.md) benutzen
 - Über nickname@chaosdorf.de Mail [senden/empfangen](./mail.md)
 - Unseren [Jabberserver](./jabber.md) benutzen
 - Auf chaosdorf.de/~nickname [Dateien bereitstellen](./hosting.md)
