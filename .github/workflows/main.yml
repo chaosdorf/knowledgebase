@@ -35,8 +35,8 @@ jobs:
         
       - name: Run a one-line script
         run: |
-          git config --global user.email "githubaction@mail.com"
-          git config --global user.name "githubaction"
-          git add sitemap.md
-          git commit -m "updated the sitemap.md"
-          git push
+          git config --global user.email "githubaction@mail.com" || true
+          git config --global user.name "githubaction" || true
+          git add sitemap.md || true
+          git commit -m "updated the sitemap.md" || true
+          git push || true
