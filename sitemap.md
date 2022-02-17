@@ -1,5 +1,4 @@
 # sitemap
-- [_config.yml](./_config.yml)
 - [auth.md](./auth.md)
 - [chaosdoor.md](./chaosdoor.md)
 - [consensus.md](./consensus.md)
