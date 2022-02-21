@@ -4,7 +4,7 @@ Willkommen im "knowledgebase" des [Chaosdorfs](https://chaosdorf.de). Hier finde
 
 ## TEST DISCLAMER
 
-Das hier ist ein test, unser [wiki](https://wiki.chaosdorf.de) in [markdown](https://https://en.wikipedia.org/wiki/Markdown) und dies einfach für alle zugänglich auf github [hier](https://github.com/chaosdorf/knowledgebase) zu hosten.
+Das hier ist ein test, unser [wiki](https://wiki.chaosdorf.de) in [markdown](https://en.wikipedia.org/wiki/Markdown) und dies einfach für alle zugänglich auf github [hier](https://github.com/chaosdorf/knowledgebase) zu hosten.
 
 ## Corona
 
