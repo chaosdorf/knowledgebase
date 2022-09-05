@@ -9,6 +9,7 @@
 - [mail.md](./mail.md)
 - [member.md](./member.md)
 - [plenum.md](./plenum.md)
+- [renovate.json](./renovate.json)
 - [services.md](./services.md)
 - [shellserver.md](./shellserver.md)
 - [sitemap.md](./sitemap.md)
